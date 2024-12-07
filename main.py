@@ -20,3 +20,4 @@ print ("world")
 # sep= -> установить\убрать пробелы в принте
 
 print ("hello", "one", "two", "three", sep=",")
+
